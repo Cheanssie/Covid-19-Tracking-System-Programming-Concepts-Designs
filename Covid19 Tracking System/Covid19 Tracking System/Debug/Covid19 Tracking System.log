@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\chean\source\repos\Covid19 Tracking System\Covid19 Tracking System\main.c(45,38): warning C4101: 'totalDeaths': unreferenced local variable
+C:\Users\chean\source\repos\Covid19 Tracking System\Covid19 Tracking System\main.c(291,10): warning C4476: 'printf' : unknown type field character '|' in format specifier
+  Covid19 Tracking System.vcxproj -> C:\Users\chean\source\repos\Covid19 Tracking System\Debug\Covid19 Tracking System.exe
