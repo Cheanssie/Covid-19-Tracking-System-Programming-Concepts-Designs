@@ -1,5 +1,6 @@
 # Covid-19-Tracking-Program
 The COVID-19 Tracking System, developed in the C programming language, is a tool designed to record and manage vital updates related to COVID-19 cases. 
+![image](https://github.com/LamontChean/Covid-19-Tracking-Program/assets/101232039/edf49271-6831-4822-a7d0-666233a047d8)
 
 Key Features:
 ## Comprehensive Data Management: 
